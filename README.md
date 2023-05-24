@@ -9,14 +9,14 @@
     This project is fully responsive.
 </p>
 
-  <h2>Demo</h2>
-  <img src="https://drive.google.com/file/d/1C9f2wpk_2JbgqvqvwJXyxwOWGTd1N3qL/view?usp=sharing" alt="">
+   <h2>Demo</h2>
+  <link>https://drive.google.com/file/d/1C9f2wpk_2JbgqvqvwJXyxwOWGTd1N3qL/view?usp=sharing</link>
    
   <h2>Deployed link</h2>
-  <img src="https://bookmyshow-client1.onrender.com/" alt="">
+  <p>https://bookmyshow-client1.onrender.com/</p>
   
   <h2>API Documentation Link</h2>
-  <img src="https://documenter.getpostman.com/view/24770149/2s93Y3vg2t" alt="">
+  <p>https://documenter.getpostman.com/view/24770149/2s93Y3vg2t</p>
 
 <h2>Features</h2>
 It has been made with the help of backend and frontend.
